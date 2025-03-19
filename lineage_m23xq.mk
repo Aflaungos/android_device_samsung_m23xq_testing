@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2024 The LineageOS Project
+# Copyright (C) 2025 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -55,5 +55,5 @@ PRODUCT_SHIPPING_API_LEVEL := 32
 TARGET_SUPPORTS_OMX_SERVICE := false
 
 # Fingerprint
-BUILD_FINGERPRINT := "samsung/m23xqxx/qssi:14/UP1A.231005.007/M236BXXS9EXK5:user/release-keys"
-PRIVATE_BUILD_DESC := "m23xqxx-user 14 UP1A.231005.007 M236BXXS9EXK5 release-keys"
+BUILD_FINGERPRINT := "samsung/m23xqxx/qssi:14/UP1A.231005.007/M236BXXS9EYB2:user/release-keys"
+PRIVATE_BUILD_DESC := "m23xqxx-user 14 UP1A.231005.007 M236BXXS9EYB2 release-keys"
