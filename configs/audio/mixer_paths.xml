@@ -3054,23 +3054,23 @@
     
     <path name="call-handset-mic">
         <path name="main-sub-mic" />
-        <ctl name="TX_DEC0 Volume" value="84" />
-        <ctl name="TX_DEC1 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="92" />
+        <ctl name="TX_DEC1 Volume" value="92" />
         <ctl name="ADC1 Volume" value="0" />
         <ctl name="ADC3 Volume" value="0" />
     </path>
 
     <path name="call-speaker-mic">
         <path name="sub-main-mic" />
-        <ctl name="TX_DEC0 Volume" value="84" />
-        <ctl name="TX_DEC1 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="92" />
+        <ctl name="TX_DEC1 Volume" value="92" />
         <ctl name="ADC1 Volume" value="0" />
         <ctl name="ADC3 Volume" value="0" />
     </path>
 
     <path name="call-headphone-mic">
         <path name="main-mic" />
-        <ctl name="TX_DEC0 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="92" />
         <ctl name="ADC1 Volume" value="0" />
     </path>
 
@@ -3082,14 +3082,14 @@
 
     <path name="call-usb-headphone-mic">
         <path name="main-mic" />
-        <ctl name="TX_DEC0 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="92" />
         <ctl name="ADC1 Volume" value="0" />
     </path>
 
     <path name="call-dual-speaker-mic">
         <path name="sub-main-mic" />
-        <ctl name="TX_DEC0 Volume" value="84" />
-        <ctl name="TX_DEC1 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="92" />
+        <ctl name="TX_DEC1 Volume" value="92" />
         <ctl name="ADC1 Volume" value="0" />
         <ctl name="ADC3 Volume" value="0" />
     </path>
@@ -3152,24 +3152,24 @@
     <!-- TX part -->
     <path name="wifi-call-handset-mic">
         <path name="main-sub-mic" />
-        <ctl name="TX_DEC0 Volume" value="84" />
-        <ctl name="TX_DEC1 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="92" />
+        <ctl name="TX_DEC1 Volume" value="92" />
         <ctl name="ADC1 Volume" value="0" />
         <ctl name="ADC3 Volume" value="0" />
     </path>
 
     <path name="wifi-call-speaker-mic">
         <path name="sub-main-mic" />
-        <ctl name="TX_DEC0 Volume" value="84" />
-        <ctl name="TX_DEC1 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="92" />
+        <ctl name="TX_DEC1 Volume" value="92" />
         <ctl name="ADC1 Volume" value="0" />
         <ctl name="ADC3 Volume" value="0" />
     </path>
 
     <path name="wifi-call-dual-speaker-mic">
         <path name="sub-main-mic" />
-        <ctl name="TX_DEC0 Volume" value="84" />
-        <ctl name="TX_DEC1 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="92" />
+        <ctl name="TX_DEC1 Volume" value="92" />
         <ctl name="ADC1 Volume" value="0" />
         <ctl name="ADC3 Volume" value="0" />
     </path>
@@ -3188,7 +3188,7 @@
 
     <path name="wifi-call-headphone-mic">
         <path name="main-mic" />
-        <ctl name="TX_DEC0 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="92" />
         <ctl name="ADC1 Volume" value="0" />
     </path>
 
@@ -3200,7 +3200,7 @@
 
     <path name="wifi-call-usb-headphone-mic">
         <path name="main-mic" />
-        <ctl name="TX_DEC0 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="92" />
         <ctl name="ADC1 Volume" value="0" />
     </path>
 
@@ -3436,8 +3436,8 @@
     <!-- TX part -->
     <path name="voip-comm-handset-mic">
         <path name="main-sub-mic" />
-        <ctl name="TX_DEC0 Volume" value="84" />
-        <ctl name="TX_DEC1 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="92" />
+        <ctl name="TX_DEC1 Volume" value="92" />
         <ctl name="ADC1 Volume" value="0" />
         <ctl name="ADC3 Volume" value="0" />
     </path>
@@ -3525,7 +3525,7 @@
 
     <path name="voip-fmc-handset-mic">
         <path name="main-mic" />
-        <ctl name="TX_DEC0 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="92" />
         <ctl name="ADC1 Volume" value="0" />
     </path>
 
