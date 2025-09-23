@@ -21,7 +21,7 @@ include device/samsung/sm7225-common/BoardConfigCommon.mk
 
 # Kernel
 TARGET_KERNEL_CONFIG        := vendor/m23xq_eur_open_defconfig
-BOARD_NAME                  := lito
+TARGET_BOARD_NAME           := lito
 
 # Display
 TARGET_SCREEN_DENSITY := 384
