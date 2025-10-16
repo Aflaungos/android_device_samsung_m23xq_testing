@@ -20,7 +20,7 @@ LOCAL_PATH := device/samsung/m23xq
 include device/samsung/sm7225-common/BoardConfigCommon.mk
 
 # Kernel
-TARGET_KERNEL_CONFIG        := vendor/m23xq_eur_open_defconfig
+TARGET_KERNEL_CONFIG        := vendor/lineage-m23xq_defconfig
 BOARD_NAME                  := lito
 
 # Display
