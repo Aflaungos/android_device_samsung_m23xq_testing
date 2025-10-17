@@ -52,6 +52,9 @@ PRODUCT_GMS_CLIENTID_BASE := android-samsung
 
 PRODUCT_SHIPPING_API_LEVEL := 31
 
+# Security patch
+VENDOR_SECURITY_PATCH := 2025-08-01
+
 # OMX Service disabled
 TARGET_SUPPORTS_OMX_SERVICE := false
 
