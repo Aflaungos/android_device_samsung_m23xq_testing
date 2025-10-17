@@ -225,4 +225,3 @@ vendor/firmware/Data.msc
 vendor/firmware/wlanmdsp.mbn
 vendor/firmware/wlan/qca_cld/bdwlan.bin
 vendor/firmware/wlan/qca_cld/regdb.bin
-vendor/firmware/wlan/qca_cld/WCNSS_qcom_cfg.ini
